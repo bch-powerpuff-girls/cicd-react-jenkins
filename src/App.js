@@ -6,7 +6,9 @@ function App() {
 		<div className='App'>
 			<header className='App-header'>
 				<img src={logo} className='App-logo' alt='logo' />
-				<p>This is a React App for the CICD class</p>
+				<p>
+					<code>Annika branch for CICD Powerpuff project</code>
+				</p>
 			</header>
 		</div>
 	);
